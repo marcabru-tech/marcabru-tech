@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=marcabru-tech&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=58a6ff&desc=Founder%20%26%20CEO%20Técnico&descAlignY=55&descAlign=62" />
-</div>
-
----
-
 <!-- Foto com Efeito Glow usando HTML -->
 <div align="center">
   <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.8);" />
@@ -20,8 +14,7 @@
 
 ---
 
-### ⚡ Sobre Mim (SEO Optimized)
-
+### ⚡ Sobre Mim 
 Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **Inteligência Artificial** e engenharia de software de elite. Minha atuação como **Arquiteto de Soluções de IA** e **Desenvolvedor Fullstack** foca em transformar visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
 
 - 🧠 **AI Solutions:** Arquitetura de sistemas AI-first, integração de LLMs e automação inteligente.
@@ -39,7 +32,7 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 
 ---
 
-### 📊 GitHub Stats (Modern Dark Mode)
+### 📊 GitHub Stats 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcabru-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -52,7 +45,7 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 
 ---
 
-### 🚀 Projetos em Destaque (Bento Style)
+### 🚀 Projetos em Destaque 
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
