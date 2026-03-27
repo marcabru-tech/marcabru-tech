@@ -1,11 +1,18 @@
-<!-- Intro animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&pause=1200&color=4DF4F1&width=720&lines=Founder+%26+CEO+T%C3%A9cnico+%F0%9F%9A%80;Arquiteto+de+Solu%C3%A7%C3%B5es+de+IA;Desenvolvedor+Fullstack+de+Elite;AI-first+%7C+Cloud+Native+%7C+Dark+Mode+Nativo" alt="typing intro">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=marcabru-tech&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=58a6ff" />
+</div>
+
+<div align="center">
+  <h1>🚀 Founder & CEO Técnico | Fullstack Architect | AI Solutions</h1>
+  <p align="center">
+    <strong>São Paulo, Brasil 🇧🇷 | Global Tech Hub</strong><br>
+    <em>Especialista em arquiteturas de IA escaláveis e interfaces de alta performance.</em>
+  </p>
 </div>
 
 ---
 
-### ⚡ Sobre Mim 
+### ⚡ Sobre Mim (SEO Optimized)
 
 Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **Inteligência Artificial** e engenharia de software de elite. Minha atuação como **Arquiteto de Soluções de IA** e **Desenvolvedor Fullstack** foca em transformar visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
 
@@ -19,18 +26,7 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 ### 🛠️ The Architect's Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=6DA55F">
-  <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/Go-0a0a0f?style=for-the-badge&logo=go&logoColor=00ADD8">
-  <img src="https://img.shields.io/badge/TailwindCSS-0a0a0f?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
-  <img src="https://img.shields.io/badge/OpenAI-0a0a0f?style=for-the-badge&logo=openai&logoColor=6CE0FF">
-  <img src="https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=375BD2">
-  <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED">
-  <img src="https://img.shields.io/badge/Kubernetes-0a0a0f?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
-  <img src="https://img.shields.io/badge/AWS-0a0a0f?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,aws,docker,kubernetes,mongodb,postgres,tailwind,figma" />
 </div>
 
 ---
@@ -38,9 +34,12 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 ### 📊 GitHub Stats (Modern Dark Mode)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcabru-tech&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=4DF4F1&icon_color=9B5CF6&text_color=e5e7eb" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcabru-tech&theme=dark&hide_border=true&background=0D1117&ring=4DF4F1&fire=9B5CF6&currStreakNum=EEEEEE&currStreakLabel=4DF4F1" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcabru-tech&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=4DF4F1&text_color=9ca3af" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcabru-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcabru-tech&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcabru-tech&theme=tokyonight" />
 </div>
 
 ---
@@ -48,46 +47,50 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 ### 🚀 Projetos em Destaque (Bento Style)
 
 <table>
-  <tbody><tr>
-    <td>
+  <tr>
+    <td width="50%">
       <h4>🌌 Neon Dashboard</h4>
       <p>UI bento + glassmorphism 2.0, charts acessíveis e animações fricção-zero.</p>
       <code>Next.js</code> <code>Tailwind</code> <code>Framer Motion</code>
     </td>
-    <td>
+    <td width="50%">
       <h4>🤖 AI Ops Copilot</h4>
       <p>Sugestões contextuais em tempo real (RSC + streaming) e UX conversacional.</p>
       <code>OpenAI</code> <code>LangChain</code> <code>VectorDB</code>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h4>🏗️ Design Tokens System</h4>
       <p>Temas dark/light com contrastes AA/AAA, docs automáticas e CI de acessibilidade.</p>
       <code>Storybook</code> <code>PostCSS</code> <code>A11y</code>
     </td>
-    <td>
+    <td width="50%">
       <h4>🌍 Global Scalable API</h4>
       <p>Arquitetura de microserviços para processamento de dados em escala global.</p>
       <code>Go</code> <code>gRPC</code> <code>Redis</code>
     </td>
   </tr>
-</tbody></table>
+</table>
 
 ---
 
 ### 🌐 Conecte-se com marcabru-tech
 
 <div align="center">
-  <a href="mailto:guilherme@marcabru.tech">
-    <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=4DF4F1">
+  <a href="https://www.linkedin.com/in/guilhermegoncalvesmachado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/marcabru-tech/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=4DF4F1">
+  <a href="mailto:marcabruaiara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://marcabru.tech">
-    <img src="https://img.shields.io/badge/Website-0a0a0f?style=for-the-badge&logo=vercel&logoColor=9B5CF6">
+  <a href="http://guilhermemachadoceo.me/gurudev-site/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcabru-tech&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 ---
