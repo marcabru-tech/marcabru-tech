@@ -5,7 +5,7 @@
 
 ---
 
-### ⚡ Sobre Mim (SEO Optimized)
+### ⚡ Sobre Mim 
 
 Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **Inteligência Artificial** e engenharia de software de elite. Minha atuação como **Arquiteto de Soluções de IA** e **Desenvolvedor Fullstack** foca em transformar visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
 
