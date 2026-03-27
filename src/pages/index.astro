@@ -5,37 +5,46 @@ const projects = [
   {
     title: "Neon Dashboard",
     description:
-      "Painel de visualização de dados em tempo real com gráficos interativos e alertas inteligentes, construído sobre uma stack de streaming moderna.",
-    tags: ["React", "D3.js", "Kafka", "Python"],
+      "UI bento + glassmorphism 2.0, charts acessíveis e animações fricção-zero para visualização de dados em tempo real.",
+    tags: ["Next.js", "Tailwind", "Framer Motion"],
     gradient: "from-cyan-500 to-cyan-400",
-    icon: "📊",
+    icon: "🌌",
   },
   {
     title: "AI Ops Copilot",
     description:
-      "Assistente de operações baseado em LLM que analisa logs, detecta anomalias e sugere remediações automatizadas para sistemas distribuídos.",
-    tags: ["LLM", "LangChain", "Kubernetes", "FastAPI"],
+      "Sugestões contextuais em tempo real (RSC + streaming) e UX conversacional para operações inteligentes.",
+    tags: ["OpenAI", "LangChain", "VectorDB"],
     gradient: "from-magenta-600 to-magenta-400",
     icon: "🤖",
   },
   {
     title: "Design Tokens System",
     description:
-      "Sistema de design tokens com pipeline de transformação multi-plataforma, sincronizando estilos entre web, iOS e Android a partir de uma única fonte de verdade.",
-    tags: ["Style Dictionary", "TypeScript", "Figma API", "CI/CD"],
+      "Temas dark/light com contrastes AA/AAA, docs automáticas e CI de acessibilidade para design systems escaláveis.",
+    tags: ["Storybook", "PostCSS", "A11y"],
     gradient: "from-cyan-500 to-magenta-500",
-    icon: "🎨",
+    icon: "🏗️",
+  },
+  {
+    title: "Global Scalable API",
+    description:
+      "Arquitetura de microserviços para processamento de dados em escala global com latência ultra-baixa.",
+    tags: ["Go", "gRPC", "Redis"],
+    gradient: "from-cyan-400 to-cyan-500",
+    icon: "🌍",
   },
 ];
 
 const skills = [
-  "Python", "TypeScript", "Apache Spark", "Kafka",
-  "dbt", "Airflow", "Docker", "Kubernetes",
-  "LLMs", "Data Pipelines", "MLOps", "Cloud (AWS/GCP)",
+  "Next.js", "TypeScript", "Node.js", "Python",
+  "Go", "gRPC", "OpenAI / LLMs", "LangChain",
+  "Docker", "Kubernetes", "AWS", "Cloud Native",
+  "SaaS Architecture", "MLOps", "Redis", "VectorDB",
 ];
 ---
 
-<Layout title="Guilherme Gonçalves Machado | Portfólio">
+<Layout title="marcabru-tech | Founder & AI Solutions Architect">
   <!-- Nav -->
   <header class="fixed top-0 inset-x-0 z-50 backdrop-blur border-b border-zinc-800/60">
     <nav class="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
@@ -43,7 +52,7 @@ const skills = [
       <ul class="hidden sm:flex gap-6 text-sm text-zinc-400">
         <li><a href="#sobre" class="hover:text-cyan-400 transition-colors">Sobre</a></li>
         <li><a href="#projetos" class="hover:text-cyan-400 transition-colors">Projetos</a></li>
-        <li><a href="#skills" class="hover:text-cyan-400 transition-colors">Skills</a></li>
+        <li><a href="#skills" class="hover:text-cyan-400 transition-colors">Stack</a></li>
         <li><a href="#contato" class="hover:text-cyan-400 transition-colors">Contato</a></li>
       </ul>
     </nav>
@@ -54,17 +63,17 @@ const skills = [
     <section class="min-h-screen flex items-center px-6">
       <div class="max-w-5xl mx-auto w-full pt-20">
         <p class="text-sm font-medium text-cyan-400 tracking-widest uppercase mb-4">
-          Engenheiro de Dados &amp; Desenvolvedor
+          Founder &amp; CEO Técnico · AI Solutions Architect · Fullstack Dev
         </p>
         <h1 class="text-5xl sm:text-7xl font-bold leading-tight mb-6">
-          Guilherme<br />
+          marcabru<br />
           <span class="bg-gradient-to-r from-cyan-400 to-magenta-500 bg-clip-text text-transparent">
-            Gonçalves Machado
+            .tech
           </span>
         </h1>
         <p class="text-lg text-zinc-400 max-w-xl mb-10 leading-relaxed">
-          Construindo pipelines de dados multimodais, sistemas inteligentes e interfaces que transformam
-          informação em conhecimento.
+          Transformando visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
+          AI-first · Cloud Native · Dark Mode nativo.
         </p>
         <div class="flex flex-wrap gap-4">
           <a
@@ -90,14 +99,21 @@ const skills = [
           Sobre <span class="text-cyan-400">mim</span>
         </h2>
         <div class="grid md:grid-cols-2 gap-12 text-zinc-400 leading-relaxed">
+          <div class="flex flex-col gap-4">
+            <p>
+              Como <strong class="text-zinc-200">Founder e CEO Técnico</strong>, lidero a intersecção entre inovação em
+              <strong class="text-cyan-400">Inteligência Artificial</strong> e engenharia de software de elite.
+              Minha atuação foca em transformar visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
+            </p>
+            <ul class="flex flex-col gap-2 text-sm">
+              <li>🧠 <strong class="text-zinc-200">AI Solutions:</strong> Arquitetura de sistemas AI-first, integração de LLMs e automação inteligente.</li>
+              <li>💻 <strong class="text-zinc-200">Fullstack Mastery:</strong> Domínio de ecossistemas modernos (Next.js, TypeScript, Node.js, Python).</li>
+              <li>🏗️ <strong class="text-zinc-200">Arquitetura de Soluções:</strong> Design de sistemas distribuídos, escalabilidade SaaS e Cloud Native.</li>
+              <li>🎨 <strong class="text-zinc-200">Frontend Design:</strong> Foco em performance, DX, micro-interações e Dark Mode nativo.</li>
+            </ul>
+          </div>
           <p>
-            Sou apaixonado pela convergência de dados, inteligência artificial e design. Meu paradigma —
-            <em class="text-zinc-200">Ein Sof Aur</em> — propõe integrar conhecimentos de todas as áreas do
-            saber humano por meio de pipelines capazes de processar qualquer modalidade de dado: texto, imagem,
-            áudio, vídeo e sinais físicos.
-          </p>
-          <p>
-            Trabalho na intersecção de engenharia de dados, MLOps e desenvolvimento de produto, criando sistemas
+            Trabalho na intersecção de engenharia de software, MLOps e desenvolvimento de produto — criando sistemas
             que escalam, aprendem e entregam valor real. Acredito que a melhor tecnologia é aquela que amplifica
             a capacidade humana sem obscurecer a beleza do processo.
           </p>
@@ -111,7 +127,7 @@ const skills = [
         <h2 class="text-3xl font-bold mb-12">
           Projetos <span class="text-magenta-400">em destaque</span>
         </h2>
-        <div class="grid md:grid-cols-3 gap-6">
+        <div class="grid md:grid-cols-2 gap-6">
           {
             projects.map((project) => (
               <article class="group relative rounded-xl border border-zinc-800 bg-zinc-900 p-6 hover:border-zinc-600 transition-all duration-300 flex flex-col gap-4">
@@ -138,7 +154,7 @@ const skills = [
     <section id="skills" class="py-24 px-6">
       <div class="max-w-5xl mx-auto">
         <h2 class="text-3xl font-bold mb-12">
-          Stack &amp; <span class="text-cyan-400">Skills</span>
+          The Architect's <span class="text-cyan-400">Stack</span>
         </h2>
         <ul class="flex flex-wrap gap-3">
           {
@@ -159,7 +175,7 @@ const skills = [
           Vamos <span class="text-magenta-400">conversar?</span>
         </h2>
         <p class="text-zinc-400 mb-10 max-w-lg mx-auto">
-          Aberto a colaborações, projetos freelance e oportunidades full-time em engenharia de dados e IA.
+          Aberto a colaborações estratégicas, projetos de IA e oportunidades de alto impacto em engenharia de software e arquitetura de soluções.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
           <a
@@ -189,6 +205,7 @@ const skills = [
 
   <!-- Footer -->
   <footer class="border-t border-zinc-800 py-8 px-6 text-center text-zinc-600 text-sm">
-    <p>&copy; {new Date().getFullYear()} Guilherme Gonçalves Machado · Feito com Astro &amp; Tailwind</p>
+    <p class="italic text-zinc-500 mb-1">"The best way to predict the future is to architect it."</p>
+    <p>&copy; {new Date().getFullYear()} marcabru-tech · Feito com Astro &amp; Tailwind</p>
   </footer>
 </Layout>
