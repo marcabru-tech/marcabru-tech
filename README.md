@@ -1,6 +1,6 @@
 <!-- Foto com Efeito Glow usando HTML -->
 <div align="center">
-  <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="600" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.8);" />
+  <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="400" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.8);" />
 </div>
 
 <div align="center">
