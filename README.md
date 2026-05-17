@@ -1,6 +1,6 @@
 <!-- Foto com Efeito Glow usando HTML -->
 <div align="center">
-  <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="400" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.8);" />
+  <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="400" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; bo[...]
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ Sobre Mim
-Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **Inteligência Artificial** e engenharia de software de elite. Minha atuação como **Arquiteto de Soluções de IA** e **Desenvolvedor Fullstack** foca em transformar visões complexas em produtos digitais resilientes, performantes e prontos para o futuro.
+Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **Inteligência Artificial** e engenharia de software de elite. Minha atuação como **Arquiteto de Soluções de IA** e[...]
 
 - 🧠 **AI Solutions:** Arquitetura de sistemas AI-first, integração de LLMs e automação inteligente.
 - 💻 **Fullstack Mastery:** Domínio de ecossistemas modernos (Next.js, TypeScript, Node.js, Python).
@@ -23,6 +23,48 @@ Como **Founder e CEO Técnico**, lidero a intersecção entre inovação em **In
 - 🎨 **Frontend Design:** Foco em performance, DX, micro-interações e **Dark Mode** nativo.
 
 > Trabalho na intersecção de engenharia de software, MLOps e desenvolvimento de produto — criando sistemas que escalam, aprendem e entregam valor real.
+
+---
+
+### 🧭 Hubstry — Venture Builder (PT/EN)
+
+#### 🇧🇷 Visão e Modelo
+- **Operating deep tech venture builder** focado em pesquisa, desenvolvimento e criação de **ativos tecnológicos proprietários**.
+- **Atuação prioritária em B2B e B2G**, permitindo co-desenvolvimento com maior eficiência de capital e soberania tecnológica.
+- Redução de **custo, tempo e risco** de inovação por meio de engenharia aplicada e foco em execução.
+
+#### 🧩 Áreas Estratégicas & Criação de Valor
+- **EdTech, Cibersegurança, Games e IA** como vetores centrais de inovação.
+- Criação de **barreiras de entrada** relevantes e captura de valor antecipado em ciclos tecnológicos emergentes.
+- **Modelo B2B2C** para ampliar distribuição e monetização dos ativos tecnológicos desenvolvidos.
+
+#### 🔭 Horizonte Estratégico
+- Acompanhamos a **atomização do consumo impulsionada por IA**, que tende a transformar indivíduos em operadores tecnológicos independentes.
+- Antecipamos **novos modelos de mercado** e posicionamos ativos para capturar valor também em contextos B2C emergentes.
+
+#### 🧠 Síntese
+A **Hubstry** transforma incerteza tecnológica em **vantagem competitiva estruturada e de longo prazo**.
+
+---
+
+### 🧭 Hubstry — Venture Builder (EN)
+
+#### 🇺🇸 Vision & Model
+- An **operating deep tech venture builder** focused on research, development, and creation of **proprietary technology assets**.
+- **Primary focus on B2B and B2G**, enabling co‑development with higher capital efficiency and technological sovereignty.
+- Reduced **cost, time, and innovation risk** through applied engineering and execution-driven delivery.
+
+#### 🧩 Strategic Domains & Value Creation
+- **EdTech, Cybersecurity, Games, and AI** as core innovation vectors.
+- Building **meaningful entry barriers** and capturing early value in emerging technology cycles.
+- **B2B2C models** to expand distribution and monetization of developed tech assets.
+
+#### 🔭 Strategic Horizon
+- We track the **AI-driven atomization of consumption**, which is turning individuals into independent technology operators.
+- We anticipate **new market models** and position assets to capture value in emerging B2C contexts.
+
+#### 🧠 Summary
+**Hubstry** turns technological uncertainty into a **structured, long-term competitive advantage**.
 
 ---
 
