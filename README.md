@@ -1,6 +1,6 @@
 <!-- Foto com Efeito Glow usando HTML -->
 <div align="center">
-  <img src="https://github.com/marcabru-tech/marcabru-tech/raw/main/marcabru-profile-image.png" alt="marcabru-tech" width="400" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; bo[...]
+  <img src="https://github.com/user-attachments/assets/0f314ab6-e243-475a-aed9-4ef3bd171824" alt="marcabru-tech" width="400" height="400" style="border-radius: 50%; border: 3px solid #58a6ff; bo[...]
 </div>
 
 <div align="center">
